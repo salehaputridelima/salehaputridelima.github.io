@@ -2,9 +2,9 @@
   link: 'https://www.facebook.com/sholehaputri.delima/'
   social_icon: Facebook
   new_window: true
-- name: RSS
-  link: '/feed.xml'
-  social_icon: RSS
+- name: Pinterest
+  link: 'https://www.pinterest.com/salehaputridelima/'
+  social_icon: Pinterest
   new_window: true
 - name: Instagram
   link: 'https://www.instagram.com/salehaputri.d/'
